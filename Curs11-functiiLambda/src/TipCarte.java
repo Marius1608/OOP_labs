@@ -1,0 +1,3 @@
+public enum TipCarte {
+    ARTA, BIOGRAFIE, FICTIUNE, DEZVOLTARE_PERSONALA
+}
